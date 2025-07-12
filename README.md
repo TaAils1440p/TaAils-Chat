@@ -12,12 +12,12 @@ Ollama is used as the local model runner for integration with Python application
 1. Make sure you have [Ollama](https://ollama.com) installed.
 2. Pull the model:
 ```bash
-ollama pull gemma:1b
+ollama pull llama3
 ```
 3. Clone this repository and install dependencies:
 ```bash
-git clone repourl
-cd reponame
+git clone https://github.com/TaAils1440p/TaAils-Chat.git
+cd TaAils-Chat
 pip install -r requirements.txt
 ```
 
