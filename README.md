@@ -4,7 +4,7 @@ This project is a chatbot built in Python that uses the **Gemma 3** language mod
 
 ## 🎥 Video
 
-This project was created to make a tutorial on my [YouTube Channel](https://www.youtube.com/channel/UCWxIBb1kiBqzt3_3RGmruYw). The tutorial is available [here](https://youtu.be/kDdlycA6obE)
+This project was created to make a tutorial on my [YouTube Channel](https://www.youtube.com/channel/UCWxIBb1kiBqzt3_3RGmruYw). The tutorial is available [here](https://youtu.be/kDdlycA6obE).
 
 ## 💡 About
 
