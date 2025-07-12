@@ -2,6 +2,10 @@
 
 This project is a chatbot built in Python that uses the **Gemma 3** language model through **Ollama**.
 
+## 🎥 Video
+
+This project was created to make a tutorial on my [YouTube Channel](https://www.youtube.com/channel/UCWxIBb1kiBqzt3_3RGmruYw). The tutorial is available [here](https://youtu.be/kDdlycA6obE)
+
 ## 💡 About
 
 Gemma is an open language model developed by Google and distributed under the **Apache 2.0 License**.  
